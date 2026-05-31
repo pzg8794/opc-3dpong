@@ -1,6 +1,6 @@
-# reports
+# project.xcworkspace
 
-Path: `reports`
+Path: `reports/3DPONG.xcodeproj/project.xcworkspace`
 
 ## Purpose
 
@@ -8,8 +8,8 @@ Report, lab, assignment, final-project, notes, and documentation material staged
 
 ## Items
 
-- `3DPONG.xcodeproj/` (folder)
-- `websites I closed.txt` (file)
+- `xcuserdata/` (folder)
+- `contents.xcworkspacedata` (file)
 
 ## Notes
 

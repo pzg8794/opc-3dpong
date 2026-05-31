@@ -2,19 +2,17 @@
 
 Drive source: https://drive.google.com/drive/folders/1JvyKbHAvCLe9qUlOYU6JtJjYB39yW7Y8
 
-Purpose: cleaned old Portafolio repository with documents separated for future reuse and Overleaf conversion.
+Purpose: cleaned old Portafolio repository. Simple source, paper, report, presentation, and documentation files are stored in GitHub; heavy videos, installers, archives, and raw data stay in Drive.
 
-## Main Directories
+## Document Areas
 
-- [`papers/`](./papers/README.md) - Research papers, papers, proposals, theses, and publication-like materials.
-- [`reports/`](./reports/README.md) - Reports, lab reports, assignments, final-project writeups, and documentation.
+- [`reports/`](./reports/README.md) - Reports, labs, assignments, notes, manuals, and documentation.
 - [`presentations/`](./presentations/README.md) - Presentations, slides, and posters.
 
 ## Top-Level Items
 
 - `3DPONG.xcodeproj/` (folder)
 - `3DPONG.xcworkspace/` (folder)
-- `papers/` (folder)
 - `pong-leap-motion-js-master/` (folder)
 - `presentations/` (folder)
 - `reports/` (folder)
@@ -27,6 +25,7 @@ Purpose: cleaned old Portafolio repository with documents separated for future r
 - `imageloader.h` (file)
 - `IMPORT_NOTES.md` (file)
 - `main.cpp` (file)
+- `OVERLEAF_PREP.md` (file)
 - `paddle.cpp` (file)
 - `paddle.h` (file)
 - `stdafx.cpp` (file)
@@ -36,10 +35,7 @@ Purpose: cleaned old Portafolio repository with documents separated for future r
 - `text3d.h` (file)
 - `vec3f.cpp` (file)
 - `vec3f.h` (file)
-- `websites I closed.txt` (file)
 
-## Organization Notes
+## Drive-Only Policy
 
-- Large binaries, installers, media, and archives may remain in Google Drive and be referenced from `IMPORT_NOTES.md` or `DRIVE_OVERVIEW.md`.
-- Each included directory has a `README.md` index.
-- `papers/`, `reports/`, and `presentations/` are intentionally separated so later Overleaf work can start from a clean source bucket.
+Videos, installers, compressed archives, raw data/binaries, and files too large for GitHub are referenced in `DRIVE_ONLY.md` or `IMPORT_NOTES.md` instead of being committed.
