@@ -1,14 +1,14 @@
-# xcuserdata
+# presentations
 
-Path: `3DPONG.xcodeproj/project.xcworkspace/xcuserdata`
+Path: `presentations`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Presentation, slide, and poster materials separated for later deck/Overleaf-related reuse.
 
 ## Items
 
-- `pitergarcia.xcuserdatad/` (folder)
+- `APCG-Presentation1.pptx` (file)
 
 ## Notes
 

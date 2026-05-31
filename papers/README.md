@@ -1,14 +1,14 @@
-# xcuserdata
+# papers
 
-Path: `3DPONG.xcodeproj/project.xcworkspace/xcuserdata`
+Path: `papers`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Paper/research/proposal materials staged for future Overleaf conversion.
 
 ## Items
 
-- `pitergarcia.xcuserdatad/` (folder)
+- No items currently classified here.
 
 ## Notes
 
