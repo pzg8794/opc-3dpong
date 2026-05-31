@@ -1,14 +1,17 @@
-# Overleaf Preparation
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# Overleaf Prep
 
-Repository: `opc-3dpong`
+Paper, report, and presentation files imported into GitHub are grouped here for later Overleaf conversion.
 
-Drive source: https://drive.google.com/drive/folders/1JvyKbHAvCLe9qUlOYU6JtJjYB39yW7Y8
+## Reports
 
-## Available Source Buckets
+- `reports/3DPONG.xcodeproj/project.pbxproj`
+- `reports/3DPONG.xcodeproj/project.xcworkspace/contents.xcworkspacedata`
+- `reports/3DPONG.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/UserInterfaceState.xcuserstate`
+- `reports/websites I closed.txt`
 
-- `reports/`: 4 file(s)
-- `presentations/`: 2 file(s)
+## Presentations
 
-## Notes
-
-Only folders with actual GitHub-stored files are listed here. Heavy/video/data-only material stays in Drive and is listed in `DRIVE_ONLY.md` when detected.
+- `presentations/APCG-Presentation1--from-portfolio-safe-opc-3dpong-0mil6c4k-repo.pptx`
+- `presentations/APCG-Presentation1.pptx`
+- `presentations/APCG-Presentation1__dup2.pptx`
